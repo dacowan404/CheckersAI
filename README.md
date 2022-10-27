@@ -1,6 +1,7 @@
 # CheckersAI
 trains CNN using genetic algorithm and reinforcement learning
-
+playCheckers.py can be used to play against the AI
+project0.ipynb can be used to see how AI was trained
 
 Checkers AI  
 David Cowan  
